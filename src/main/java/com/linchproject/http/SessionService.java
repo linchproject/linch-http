@@ -5,7 +5,7 @@ package com.linchproject.http;
  */
 public interface SessionService {
 
-    String getValue();
+    String getValue(String key);
 
-    void setValue(String key);
+    void setValue(String key, String value);
 }
