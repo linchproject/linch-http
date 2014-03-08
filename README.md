@@ -1,1 +1,1 @@
-Session and cookie services.
+Http services
